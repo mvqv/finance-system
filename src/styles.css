@@ -1,0 +1,210 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Atlantix Lab — terminal design system.
+ * Dark-only operator UI. All colors in oklch. Semantic tokens for
+ * market regimes, risk zones, agent verdicts, edge strength.
+ */
+
+@theme inline {
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  --font-pixel: "DotGothic16", "Courier New", monospace;
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Atlantix semantic tokens */
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-atlantix: var(--atlantix);
+  --color-atlantix-glow: var(--atlantix-glow);
+
+  --color-regime-risk-on: var(--regime-risk-on);
+  --color-regime-risk-off: var(--regime-risk-off);
+  --color-regime-neutral: var(--regime-neutral);
+  --color-regime-inflation: var(--regime-inflation);
+
+  --color-risk-green: var(--risk-green);
+  --color-risk-yellow: var(--risk-yellow);
+  --color-risk-red: var(--risk-red);
+  --color-risk-black: var(--risk-black);
+
+  --color-edge-strong: var(--edge-strong);
+  --color-edge-mid: var(--edge-mid);
+  --color-edge-weak: var(--edge-weak);
+
+  --color-bull: var(--bull);
+  --color-bear: var(--bear);
+
+  --color-agent-cio: var(--agent-cio);
+  --color-agent-macro: var(--agent-macro);
+  --color-agent-fundamental: var(--agent-fundamental);
+  --color-agent-news: var(--agent-news);
+  --color-agent-options: var(--agent-options);
+  --color-agent-flow: var(--agent-flow);
+  --color-agent-quant: var(--agent-quant);
+  --color-agent-bear: var(--agent-bear);
+  --color-agent-risk: var(--agent-risk);
+  --color-agent-portfolio: var(--agent-portfolio);
+}
+
+:root {
+  --radius: 0.5rem;
+
+  /* CloudPeak-inspired deep navy + electric blue */
+  --background: oklch(0.13 0.035 265);
+  --foreground: oklch(0.97 0.005 240);
+
+  --surface: oklch(0.17 0.038 265);
+  --surface-2: oklch(0.21 0.040 265);
+  --surface-3: oklch(0.26 0.042 265);
+
+  --card: oklch(0.17 0.038 265);
+  --card-foreground: oklch(0.97 0.005 240);
+  --popover: oklch(0.19 0.040 265);
+  --popover-foreground: oklch(0.97 0.005 240);
+
+  --atlantix: oklch(0.62 0.22 265);          /* electric blue #3D63FF */
+  --atlantix-glow: oklch(0.72 0.20 265);
+
+  --primary: oklch(0.62 0.22 265);
+  --primary-foreground: oklch(0.98 0.005 240);
+
+  --secondary: oklch(0.28 0.040 265);
+  --secondary-foreground: oklch(0.97 0.005 240);
+
+  --muted: oklch(0.24 0.038 265);
+  --muted-foreground: oklch(0.70 0.025 265);
+
+  --accent: oklch(0.62 0.22 265);
+  --accent-foreground: oklch(0.98 0.005 240);
+
+  --destructive: oklch(0.62 0.22 25);
+  --destructive-foreground: oklch(0.98 0.005 240);
+
+  --border: oklch(0.30 0.040 265);
+  --input: oklch(0.24 0.038 265);
+  --ring: oklch(0.62 0.22 265);
+
+  /* Regimes */
+  --regime-risk-on: oklch(0.72 0.18 145);
+  --regime-risk-off: oklch(0.62 0.22 25);
+  --regime-neutral: oklch(0.70 0.025 265);
+  --regime-inflation: oklch(0.62 0.22 265);
+
+  /* Risk zones */
+  --risk-green: oklch(0.72 0.18 145);
+  --risk-yellow: oklch(0.82 0.16 95);
+  --risk-red: oklch(0.62 0.22 25);
+  --risk-black: oklch(0.16 0.035 265);
+
+  /* Edge */
+  --edge-strong: oklch(0.62 0.22 265);
+  --edge-mid: oklch(0.68 0.14 240);
+  --edge-weak: oklch(0.55 0.05 265);
+
+  /* Direction */
+  --bull: oklch(0.72 0.18 145);
+  --bear: oklch(0.62 0.22 25);
+
+  /* Agent colors */
+  --agent-cio: oklch(0.62 0.22 265);
+  --agent-macro: oklch(0.70 0.16 230);
+  --agent-fundamental: oklch(0.74 0.14 200);
+  --agent-news: oklch(0.74 0.15 145);
+  --agent-options: oklch(0.72 0.16 300);
+  --agent-flow: oklch(0.70 0.14 250);
+  --agent-quant: oklch(0.78 0.14 60);
+  --agent-bear: oklch(0.62 0.22 25);
+  --agent-risk: oklch(0.62 0.22 265);
+  --agent-portfolio: oklch(0.72 0.14 220);
+}
+
+.dark {
+  --background: oklch(0.13 0.035 265);
+  --foreground: oklch(0.97 0.005 240);
+}
+
+@layer base {
+  * { border-color: var(--color-border); }
+  html, body { background-color: var(--color-background); color: var(--color-foreground); }
+  body {
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    background-image:
+      radial-gradient(ellipse 55% 45% at 50% 60%, color-mix(in oklab, var(--atlantix) 45%, transparent), transparent 70%),
+      radial-gradient(ellipse 40% 30% at 50% 10%, color-mix(in oklab, var(--atlantix) 18%, transparent), transparent 70%),
+      linear-gradient(180deg, var(--background), var(--background));
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+  .font-mono, .mono { font-family: var(--font-mono); font-feature-settings: "tnum","ss01"; }
+  .font-display { font-family: var(--font-display); letter-spacing: -0.02em; }
+}
+
+@layer components {
+  .grid-bg {
+    background-image:
+      linear-gradient(to right, color-mix(in oklab, var(--border) 40%, transparent) 1px, transparent 1px),
+      linear-gradient(to bottom, color-mix(in oklab, var(--border) 40%, transparent) 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+  .panel {
+    background: linear-gradient(180deg, color-mix(in oklab, var(--surface) 55%, transparent), color-mix(in oklab, var(--surface-2) 35%, transparent));
+    border: 1px solid color-mix(in oklab, var(--border) 70%, transparent);
+    border-radius: var(--radius);
+    backdrop-filter: blur(18px) saturate(140%);
+    -webkit-backdrop-filter: blur(18px) saturate(140%);
+    box-shadow: inset 0 1px 0 color-mix(in oklab, white 6%, transparent), 0 20px 40px -20px rgba(0,0,0,0.5);
+  }
+  .glass {
+    background: color-mix(in oklab, var(--surface) 45%, transparent);
+    border: 1px solid color-mix(in oklab, white 8%, transparent);
+    backdrop-filter: blur(20px) saturate(140%);
+    -webkit-backdrop-filter: blur(20px) saturate(140%);
+    border-radius: var(--radius);
+    box-shadow: inset 0 1px 0 color-mix(in oklab, white 6%, transparent), 0 20px 40px -20px rgba(0,0,0,0.5);
+  }
+  .glow-atlantix {
+    box-shadow: 0 0 0 1px color-mix(in oklab, var(--atlantix) 50%, transparent), 0 0 30px -8px color-mix(in oklab, var(--atlantix) 40%, transparent);
+  }
+  .text-atlantix { color: var(--atlantix); }
+  .bg-atlantix { background-color: var(--atlantix); }
+  .ticker { font-family: var(--font-mono); letter-spacing: 0.04em; }
+  .font-pixel { font-family: var(--font-pixel); letter-spacing: 0.08em; }
+  .footer-sky {
+    background:
+      radial-gradient(ellipse 80% 60% at 50% 100%, oklch(0.78 0.12 230) 0%, transparent 60%),
+      linear-gradient(180deg, #000 0%, #03081a 28%, #061a55 60%, #0a4cb8 85%, #2aa6ff 100%);
+  }
+}

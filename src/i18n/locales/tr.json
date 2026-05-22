@@ -1,0 +1,1118 @@
+{
+  "common": {
+    "open": "Aç",
+    "moreCases": "Daha fazla vaka →",
+    "language": "Dil",
+    "signOut": "Çıkış yap",
+    "expand": "Kenar çubuğunu genişlet",
+    "collapse": "Kenar çubuğunu daralt"
+  },
+  "nav": {
+    "services": "Hizmetler",
+    "cases": "Vaka Çalışmaları",
+    "approach": "Yaklaşım",
+    "tech": "Teknoloji",
+    "faq": "SSS",
+    "enterTerminal": "Terminale Gir"
+  },
+  "sidebar": {
+    "tagline": "Hedge Fon Terminali",
+    "items": {
+      "dashboard": "Komuta Merkezi",
+      "opportunities": "Fırsatlar",
+      "debate": "Tartışma Odası",
+      "risk": "Risk",
+      "portfolio": "Portföy",
+      "news": "Haber İstihbaratı",
+      "macro": "Makro Radar",
+      "watchlist": "İzleme Listesi",
+      "execution": "Emir Yürütme",
+      "research": "Araştırma",
+      "journal": "Günlük",
+      "health": "Sistem Sağlığı",
+      "settings": "Ayarlar",
+      "shariahGuard": "Shariah Guard",
+      "agentChat": "Ajan Sohbeti",
+      "graph": "Bilgi Grafiği",
+      "operations": "Operasyonlar",
+      "alerts": "Uyarılar",
+      "agents": "Ajan Puan Kartları"
+    }
+  },
+  "hero": {
+    "titleA": "Senin Avantajın. Senin Kuralların.",
+    "titleB": "Senin Terminalin.",
+    "subtitle": "13 uzman yapay zeka ajanı her işlem fikrini kayıt altında tartışır — risk vetosu, RAG hafızası ve senin nihai onayınla. Kanaatiyle işlem yapan tek bir operatör için inşa edildi.",
+    "ctaPrimary": "Terminale Gir",
+    "noCard": "Kredi kartı gerekmez",
+    "ownerApproved": "Her işlemde sahip onayı",
+    "ragMemory": "RAG hafıza — halüsinasyon yok",
+    "riskVeto": "Risk motoru veto hakkına sahip"
+  },
+  "trusted": {
+    "label": "8+ canlı piyasa veri kaynağına bağlı"
+  },
+  "bottlenecks": {
+    "label": "Sorun",
+    "title": "Çoğu trader kötü fikirden değil, bozuk süreçten kaybeder.",
+    "rows": [
+      "Bir kurulum görürsün ama girmeden önce onu test edecek yapılandırılmış bir yolun yok.",
+      "Tek bir modele ya da tek bir görüşe güveniyorsun — karşı tarafı tartışan kimse yok.",
+      "Risk kafanda yönetiliyor, bir sistem tarafından uygulanmıyor.",
+      "Geçmiş işlemler hiç düzgün incelenmediği için aynı hataları tekrarlıyorsun.",
+      "Haberler kırılıyor, makro değişiyor — ama tezin gerçek zamanlı güncellenmiyor."
+    ]
+  },
+  "services": {
+    "label": "İçinde ne var",
+    "titleA": "On panel. Tek",
+    "titleB": "kanaat.",
+    "subtitle": "Aşağıdaki her panel, canlı terminaldeki bileşenlerle çalışır. Veriler örnek — mantık gerçek.",
+    "items": {
+      "debate": {
+        "title": "Ajan Tartışma Odası",
+        "body": "Komitenin anlaşmazlığını izleyin. Her ajanın LEHİNE / ALEYHİNE / DİKKAT tutumu — çatışma sinyalin kendisidir."
+      },
+      "opportunities": {
+        "title": "Canlı Fırsatlar",
+        "body": "Edge'e göre sıralanır, Risk ile kapılanır, Asimetriye (R/R) göre dizilir. Tartışma Odasına tek tıkla terfi."
+      },
+      "macro": {
+        "title": "Makro Radar",
+        "body": "FRED + Yahoo Finance serileri, haftalık / aylık değişimlerle. Rejim hapı diğer her paneli yönlendirir."
+      },
+      "research": {
+        "title": "Araştırma & Hafıza",
+        "body": "Sisteme her şeyi sorun. Cevaplar notlara, işlemlere ve alınan haberlere satır içi alıntı taşır."
+      },
+      "journal": {
+        "title": "İşlem Günlüğü",
+        "body": "Her işlem bir post-mortem alır. Ajan tutumları gerçekleşen PnL'ye karşı puanlanır — doğruluk zamanla artar."
+      },
+      "health": {
+        "title": "Sistem Sağlığı",
+        "body": "API pingleri, gecikme, hata akışı. Sarı bir nokta görünürse, nedenini görürsünüz — sadece olduğunu değil."
+      },
+      "portfolio": {
+        "title": "Portföy",
+        "body": "Açık pozisyonlar, NAV ağırlığı, gerçekleşmemiş K/Z. Tüm maruziyet tek bakışta — canlı fiyatlarla long/short dağılımı."
+      },
+      "risk": {
+        "title": "Risk Kokpiti",
+        "body": "Kill switch, pozisyon limitleri, son kararlar. Risk motoru veto hakkına sahiptir — edge onu asla geçemez."
+      },
+      "watchlist": {
+        "title": "İzleme Listesi",
+        "body": "Tetik notlarıyla işlem öncesi gözlemler. Koşullar oluştuğunda Tartışma Odası'na tek tıkla terfi."
+      },
+      "agentChat": {
+        "title": "Ajan Sohbeti",
+        "body": "13 uzman ajandan herhangi biriyle doğrudan konuşun. CIO, Risk Yöneticisi veya herhangi bir alan uzmanına direkt sorun."
+      }
+    }
+  },
+  "cases": {
+    "label": "Gerçek işlemler. Gerçek kararlar.",
+    "titleA": "Komitenin",
+    "titleB": "yakaladıkları.",
+    "items": [
+      {
+        "year": "Ç3 2025",
+        "title": "Enerji süpersikli: OPEC+ disiplininde uzun XOM.",
+        "metrics": [
+          [
+            "+2.1R",
+            "Gerçekleşen getiri"
+          ],
+          [
+            "9",
+            "Tutulan oturum"
+          ],
+          [
+            "7/9",
+            "Lehinde ajan"
+          ]
+        ]
+      },
+      {
+        "year": "Ç4 2025",
+        "title": "Risk vetosu, TÜFE öncesi TLT short'unda -3.4R kurtardı.",
+        "metrics": [
+          [
+            "-0.0R",
+            "Gerçekleşen getiri"
+          ],
+          [
+            "1",
+            "Risk vetosu"
+          ],
+          [
+            "3/9",
+            "Aleyhinde ajan"
+          ]
+        ]
+      }
+    ]
+  },
+  "approach": {
+    "label": "Nasıl çalışır",
+    "titleA": "Sinyal girer. Denetlenmiş işlem",
+    "titleB": "çıkar.",
+    "steps": [
+      {
+        "title": "Keşfet",
+        "body": "Piyasa verilerini, haberleri ve makroyu birleşik bir depoya alın. İzleme listesi + tarayıcı, edge, risk ve asimetri ile adayları gün yüzüne çıkarır."
+      },
+      {
+        "title": "Tartış",
+        "body": "On üç uzman ajan her fikri kayıt altında tartışır. Makro, Temel, Haber, Opsiyon, Akış, Kantitatif, Ayı, Risk, Portföy, CIO, Yürütme, Operasyonlar, Hafıza."
+      },
+      {
+        "title": "Kapı",
+        "body": "Risk motoru veto hakkına sahiptir. Düşüş üst sınırları, korelasyon limitleri ve kill-switch'ler birinci sınıftır — edge asla riski geçmez."
+      },
+      {
+        "title": "Gönder",
+        "body": "Sahip tartışmayı inceler, emri imzalar. Sonuçlar kaydedilir, ajan tutumları gerçekleşen PnL'ye karşı puanlanır, hafıza büyür."
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Operatörler konuşuyor",
+    "title": "İlk komite çalıştırmasından sonra ne değişiyor.",
+    "items": [
+      {
+        "quote": "Atlantix üç Bloomberg sekmesini ve bir analist Discord'unu değiştirdi. Tartışma Odası tam olarak benim düşündüğüm gibi — ama kayıt altında.",
+        "who": "Operatör A.",
+        "role": "Long/short hisse, $40M defter"
+      },
+      {
+        "quote": "Risk vetosu, TÜFE öncesi göndermek üzere olduğum bir TLT short'unu yakaladı. Bu tek engel terminali iki kez geri ödedi.",
+        "who": "Operatör B.",
+        "role": "Makro, family office"
+      },
+      {
+        "quote": "RAG alıntıları her şeyi değiştirdi. Sistem bana hangi notu ve hangi işlemi söylüyor — havalar değil, makbuzlar.",
+        "who": "Operatör C.",
+        "role": "Tercihli, prop masa"
+      }
+    ]
+  },
+  "difference": {
+    "titleA": "Farklı inşa edildi.",
+    "titleB": "Farklı çalışır.",
+    "otherTools": "Diğer araçlar",
+    "atlantix": [
+      "On üç uzman ajan her fikri kayıt altında tartışır",
+      "Risk motoru, edge puanı üzerinde vetoya sahiptir",
+      "Notlara ve işlemlere sıkı alıntılı RAG hafızası",
+      "Sahip onaylı yürütme, tamamen denetlenmiş",
+      "Canlı FRED + Yahoo + haber boru hattı",
+      "Post-mortem her ajan tutumunu puanlar",
+      "Tek bir kanaatli operatör etrafında inşa edilmiştir"
+    ],
+    "others": [
+      "Tek bir kara kutuya özetleyen tek LLM",
+      "Edge metriği risk üst sınırlarını geçer",
+      "Halüsinasyonla yazılmış geçmiş, kaynak bağlantısı yok",
+      "İnsan kapısı olmadan otomatik işlem",
+      "Statik elektronik tablolar, haftalık güncelleme",
+      "İşlem günlüğü unutulmuş bir belge",
+      "Genel araç, operatör iş akışı yok"
+    ]
+  },
+  "stack": {
+    "label": "Kaputun altında",
+    "titleA": "Hiç",
+    "titleMid": "uyumayan",
+    "titleB": "altyapı.",
+    "items": [
+      {
+        "name": "Alpaca",
+        "body": "ABD hisse senedi + opsiyon yürütme ve broker durum senkronizasyonu."
+      },
+      {
+        "name": "Yahoo Finance",
+        "body": "Tarihsel fiyatlar, gün içi kotasyonlar ve kurumsal işlemler."
+      },
+      {
+        "name": "FRED",
+        "body": "Makroekonomik seriler — faizler, TÜFE, DXY, işsizlik."
+      },
+      {
+        "name": "Google Gemini API",
+        "body": "Her ajanın muhakemesini güçlendiren Gemini 2.5 Pro / Flash LLM."
+      },
+      {
+        "name": "Supabase",
+        "body": "RAG için vektör deposu, RLS korumalı günlükler ve pg_cron işleri."
+      },
+      {
+        "name": "CCXT",
+        "body": "BTC, ETH ve majörler için birleşik kripto piyasa verisi."
+      }
+    ]
+  },
+  "faq": {
+    "label": "Sorular",
+    "title": "Girmeden önce bilmen gereken her şey.",
+    "items": [
+      {
+        "q": "Atlantix Lab kimin için yapıldı?",
+        "a": "Kanaatli tek bir operatör — kara kutu otomatik bir trader yerine kayıt altında ajan bir komite isteyen tercihli bir tüccar, family office PM veya prop-desk lideri için."
+      },
+      {
+        "q": "İşlemleri otonom olarak yürütüyor mu?",
+        "a": "Hayır. Sahip onaylayana kadar hiçbir şey yürütülmez. Terminal önerir — operatör onaylar. Her emir, kaynağı tartışma ve risk kararıyla birlikte kaydedilir."
+      },
+      {
+        "q": "Canlı olarak hangi veri kaynakları bağlı?",
+        "a": "Yürütme ve portföy durumu için Alpaca, fiyat ve geçmiş için Yahoo Finance, makro seriler için FRED, toplu haber API'si ve kripto için CCXT. Sistem Sağlığı her API durumunu gerçek zamanlı gösterir."
+      },
+      {
+        "q": "RAG hafızası nasıl çalışır?",
+        "a": "İşlem notları, günlükler ve alınan haberler bir Supabase vektör deposuna yerleştirilir. Her asistan cevabı, altta yatan notu veya işlemi kimliğe göre alıntılar — tıklanabilir, denetlenebilir, asla halüsinasyon değil."
+      },
+      {
+        "q": "Risk motoru bir işlemi veto ederse ne olur?",
+        "a": "Engeller. Edge puanı asla riski geçmez. Veto nedeni kaydedilir, tartışma günlükte kalır ve operatör hem ajan konsensüsünü hem de risk kararını yan yana görür."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Komite canlı",
+    "titleA": "Yalnız işlem yapmayı bırak.",
+    "titleMid": "Bir komite getir.",
+    "titleB": "",
+    "sub": "13 ajan. Senin kuralların. Tek onay.",
+    "createOperator": "Terminale Gir",
+    "openCC": "Komuta Merkezini Aç",
+    "footer": "13 ajanlı yapay zeka yatırım komitesi · Risk kapılı · Sahip onaylı · Her zaman denetlenmiş"
+  },
+  "preview": {
+    "title": "Komuta Merkezi",
+    "subtitle": "Canlı operatör görünümü",
+    "totalEquity": "Toplam Sermaye",
+    "cash": "Nakit",
+    "dailyPnl": "Günlük K/Z",
+    "riskUsed": "Kullanılan Risk",
+    "topEdge": "En İyi Edge Fikirleri",
+    "systemStatus": "Sistem Durumu",
+    "edge": "Edge",
+    "risk": "Risk",
+    "cons": "Kons"
+  },
+  "dashboard": {
+    "title": "Komuta Merkezi",
+    "subtitle": "Canlı operatör görünümü",
+    "totalEquity": "Toplam Sermaye",
+    "cash": "Nakit",
+    "dailyPnl": "Günlük K/Z",
+    "dailyRiskUsed": "Günlük Risk Kullanımı",
+    "topEdgeIdeas": "En İyi Edge Fikirleri",
+    "systemStatus": "Sistem Durumu",
+    "openPositions": "Açık Pozisyonlar",
+    "activeIdeas": "Aktif Fikirler",
+    "awaitingApprovalCount": "{{count}} onay bekliyor",
+    "debatingCount": "{{count}} tartışılıyor",
+    "lastVerdict": "Son Karar",
+    "noVerdictsYet": "Henüz karar yok",
+    "system": "Sistem",
+    "issues": "Sorunlar",
+    "degraded": "Kısmi Kesinti",
+    "healthy": "Sağlıklı",
+    "lastAt": "Son: {{time}}",
+    "operatorBulletin": "Operatör Bülteni",
+    "noPendingActions": "Bekleyen işlem veya uyarı yok",
+    "review": "İncele",
+    "bulletinAwaitingApproval": "{{ticker}} {{side}} — onayınızı bekliyor",
+    "noActiveIdeas": "Aktif fikir yok.",
+    "noOpenPositions": "Açık pozisyon yok.",
+    "edge": "Edge",
+    "risk": "Risk",
+    "consensus": "Konsensüs",
+    "navWeight": "NAV",
+    "bulletins": [
+      "Ajan komitesi Gemini üzerinde çalışır. Her işlemde son onay sahibindir.",
+      "Risk Motoru, Edge Skoru üzerinde veto hakkına sahiptir. Risk panelinde acil durdurma vardır.",
+      "Tartışma Odası canlı 13 ajanlı komiteyi gösterir. İncelemek için en üstteki XOM fikrini açın."
+    ]
+  },
+  "common": {
+    "unknown": "Bilinmiyor"
+  },
+  "side": {
+    "long": "Uzun",
+    "short": "Kısa"
+  },
+  "status": {
+    "draft": "Taslak",
+    "researching": "Araştırılıyor",
+    "debating": "Tartışılıyor",
+    "risk_review": "Risk İncelemesi",
+    "awaiting_approval": "Onay Bekliyor",
+    "approved": "Onaylandı",
+    "rejected": "Reddedildi",
+    "executed": "Gerçekleşti",
+    "closed": "Kapandı",
+    "invalidated": "Geçersiz"
+  },
+  "verdict": {
+    "approve": "Onay",
+    "reduce_size": "Boyutu Azalt",
+    "wait": "Bekle",
+    "reject": "Reddet",
+    "kill_switch": "Kill Switch"
+  },
+  "regime": {
+    "risk_on": "Risk-On",
+    "risk_off": "Risk-Off",
+    "neutral": "Nötr",
+    "inflation_shock": "Enflasyon Şoku",
+    "liquidity_squeeze": "Likidite Sıkışması"
+  },
+  "opportunities": {
+    "title": "Canlı Fırsatlar",
+    "subtitle": "Edge Skoruna göre sıralanmış",
+    "ticker": "Sembol",
+    "class": "Sınıf",
+    "idea": "Fikir",
+    "side": "Yön",
+    "status": "Durum",
+    "edge": "Edge",
+    "risk": "Risk",
+    "consensus": "Konsensüs",
+    "rr": "R/R",
+    "action": "İşlem",
+    "run": "Çalıştır",
+    "running": "Çalışıyor…",
+    "committeeDispatched": "Komite görevlendirildi",
+    "failed": "Başarısız",
+    "workflowLabel": "Pipeline nasıl kullanılır",
+    "workflowBody": "Bu bir al/sat oyuncak listesi değil. Hipotez kuyruğu: önce tez ve metrikler, sonra komite, sonra risk kararı, yalnızca onaydan sonra execution.",
+    "metricsLabel": "Metrikler ne demek",
+    "metricsBody": "Edge = tez potansiyeli, Risk = kısıtlar, Consensus = rol uzlaşısı, R/R = getiri asimetrisi. Risk onayı olmadan yüksek edge giriş sinyali değildir.",
+    "nextLabel": "Sonraki adım",
+    "nextBody": "Net tezi olan fikirde Run Committee çalıştır. Veri eksikse execution öncesi research/watchlist’i zenginleştir."
+  },
+  "portfolio": {
+    "title": "Portföy",
+    "subtitle": "Açık Pozisyonlar ve Maruziyet",
+    "refreshPrices": "Fiyatları Yenile",
+    "syncBroker": "Aracıyı Senkronize Et",
+    "totalEquity": "Toplam Sermaye",
+    "cash": "Nakit",
+    "dailyPnl": "Günlük K/Z",
+    "dailyRiskUsed": "Günlük Risk Kullanımı",
+    "openPositions": "Açık Pozisyonlar",
+    "ticker": "Sembol",
+    "side": "Yön",
+    "qty": "Adet",
+    "avg": "Ort",
+    "mark": "Anlık",
+    "weight": "Ağırlık",
+    "upnl": "uK/Z",
+    "slTp": "SL / TP",
+    "noOpenPositions": "Açık pozisyon yok"
+  },
+  "risk": {
+    "title": "Risk Kokpiti",
+    "subtitle": "Komite kararları ve korumalar",
+    "killSwitch": "Acil Durdurma",
+    "engaged": "AKTİF",
+    "disarmed": "DEVRE DIŞI",
+    "reasonPlaceholder": "Aktif etme nedeni",
+    "disarm": "Devre dışı bırak",
+    "engage": "Aktif et",
+    "dailyRiskUsed": "Günlük Risk Kullanımı",
+    "ofDailyLimit": "günlük limitin",
+    "verdictDist": "Karar Dağılımı (tüm zamanlar)",
+    "sectorConcentration": "Sektör Yoğunluğu (açık pozisyonlar)",
+    "positionsNoStop": "Stop-Loss Olmayan Pozisyonlar",
+    "atRiskCount": "{{count}} riskte",
+    "allHaveStop": "Tüm açık pozisyonlarda stop-loss var",
+    "setStop": "Stop Ayarla",
+    "marketLimits": "Piyasa Limitleri",
+    "market": "Piyasa",
+    "maxPosition": "Maks Pozisyon",
+    "maxDailyRisk": "Maks Günlük Risk",
+    "maxGrossExposure": "Maks Brüt Maruziyet",
+    "notes": "Notlar",
+    "stressTests": "Stres Testi Sonuçları",
+    "scenario": "Senaryo",
+    "projectedPnL": "Beklenen K/Z",
+    "maxDrawdown": "Maks Düşüş",
+    "worstPosition": "En Kötü Pozisyon",
+    "computed": "Hesaplandı",
+    "reEvaluate": "Riski Yeniden Değerlendir",
+    "selectIdea": "Fikir seç…",
+    "run": "Çalıştır",
+    "recentVerdicts": "Son Kararlar",
+    "idea": "Fikir",
+    "side": "Yön",
+    "verdict": "Karar",
+    "maxPos": "Maks Poz %",
+    "rationale": "Gerekçe",
+    "noVerdictsYet": "Henüz karar yok — önce bir fikir üzerinde komiteyi çalıştırın",
+    "openDebate": "Tartışma",
+    "pickIdea": "Bir fikir seçin",
+    "reEvaluated": "Risk yeniden değerlendirildi",
+    "reasonRequired": "Acil durdurmayı aktif etmek için neden gerekli",
+    "engagedToast": "Acil durdurma AKTİF",
+    "disarmedToast": "Acil durdurma devre dışı",
+    "failed": "Başarısız"
+  },
+  "watchlist": {
+    "title": "İzleme Listesi",
+    "subtitle": "İşlem öncesi gözlemler",
+    "addTicker": "Sembol Ekle",
+    "addToWatchlist": "İzleme Listesine Ekle",
+    "ticker": "Sembol",
+    "name": "İsim",
+    "class": "Sınıf",
+    "sector": "Sektör",
+    "trigger": "Tetik",
+    "triggerNote": "Tetik notu",
+    "actions": "İşlemler",
+    "empty": "İzleme listesi boş",
+    "promote": "Yükselt",
+    "add": "Ekle",
+    "tickerRequired": "Sembol gerekli",
+    "added": "İzleme listesine eklendi",
+    "promoted": "Fikre yükseltildi",
+    "failed": "Başarısız",
+    "filter": "Filtre",
+    "all": "Tümü",
+    "country": "Ülke",
+    "seedBist": "BIST Evrenini Ekle",
+    "shariahOnly": "Sadece Shariah uyumlu",
+    "shariahColumn": "Shariah",
+    "seedExists": "BIST evreni zaten watchlist içinde",
+    "seeded": "{{n}} BIST tickeri eklendi",
+    "seedFailed": "Ekleme başarısız"
+  },
+  "news": {
+    "title": "Haber İstihbaratı",
+    "subtitle": "Sinyaller, katalizörler ve duygu analizi",
+    "ingest": "Haberleri Çek",
+    "ingesting": "Çekiliyor…",
+    "filterTickers": "Sembol filtrele (AAPL, TSLA…)",
+    "minImportance": "Min önem",
+    "ingestedToast": "{{n}} makale alındı",
+    "ingestFailed": "Çekme başarısız",
+    "noEventsBefore": "Olay yok. Çekmek için",
+    "noEventsAfter": "tuşuna basın.",
+    "open": "aç",
+    "imp": "önem"
+  },
+  "macro": {
+    "title": "Makro Radarı",
+    "subtitle": "FRED tabanlı rejim görüntüsü",
+    "refresh": "Yenile",
+    "noDataBefore": "Henüz makro verisi yok. FRED'den çekmek için",
+    "noDataAfter": "tuşuna basın.",
+    "syncedToast": "Makro senkronize edildi — rejim: {{regime}}",
+    "syncFailed": "Makro senkronizasyonu başarısız"
+  },
+  "execution": {
+    "title": "Yürütme Konsolu",
+    "subtitle": "Emir defteri ve onaylar",
+    "newOrder": "Yeni Emir",
+    "time": "Saat",
+    "ticker": "Sembol",
+    "idea": "Fikir",
+    "side": "Yön",
+    "type": "Tür",
+    "qty": "Adet",
+    "limit": "Limit",
+    "status": "Durum",
+    "actions": "İşlemler",
+    "noOrders": "Emir yok",
+    "send": "Gönder",
+    "submitted": "Aracıya gönderildi",
+    "submitFailed": "Gönderim başarısız",
+    "cancelled": "İptal edildi",
+    "orderCreated": "Emir oluşturuldu (onay bekliyor)",
+    "tickerRequired": "Sembol gerekli",
+    "longBuy": "Long (Al)",
+    "shortSell": "Short (Sat)",
+    "market": "Piyasa",
+    "limitOpt": "Limit",
+    "quantity": "Miktar",
+    "limitPrice": "Limit Fiyatı",
+    "cancel": "İptal",
+    "create": "Oluştur"
+  },
+  "research": {
+    "title": "Araştırma",
+    "subtitle": "Yatırım notları ve semantik hafıza",
+    "askMemory": "Hafızaya Sor",
+    "askPlaceholder": "NVDA kazanç tepkileri hakkında ne öğrendik?",
+    "ask": "Sor",
+    "searching": "Aranıyor…",
+    "sources": "Kaynaklar",
+    "indexNote": "Not İndeksle",
+    "titlePh": "Başlık",
+    "notePh": "Serbest not, öğrenim veya referans metni…",
+    "indexBtn": "İndeksle",
+    "indexing": "İndeksleniyor…",
+    "indexed": "İndekslendi",
+    "titleContentRequired": "Başlık ve içerik gerekli",
+    "queryFailed": "Sorgu başarısız",
+    "indexingFailed": "İndeksleme başarısız",
+    "noMemos": "Henüz not yok",
+    "manual": "manuel",
+    "sim": "benz"
+  },
+  "journal": {
+    "title": "İşlem Günlüğü",
+    "subtitle": "Kapanan işlemler · Ajan denetim izi",
+    "closed": "Kapanış",
+    "ticker": "Sembol",
+    "idea": "Fikir",
+    "side": "Yön",
+    "pnl": "K/Z",
+    "agentAccuracy": "Ajan Doğruluğu",
+    "triggerReason": "Tetik / Çıkış Nedeni",
+    "postMortem": "Sonradan analiz",
+    "noClosedTrades": "Kapanan işlem yok",
+    "score": "Skor",
+    "run": "Çalıştır",
+    "postMortemGenerated": "Sonradan analiz oluşturuldu",
+    "dialogTitle": "Sonradan Analiz",
+    "summary": "Özet",
+    "whatWorked": "İşe yarayan:",
+    "whatFailed": "Başarısız olan:",
+    "lessons": "Dersler:",
+    "originalDebate": "Orijinal Tartışma ve Sonuç",
+    "noDebateRecorded": "Tartışma kaydedilmedi.",
+    "neutral": "nötr"
+  },
+  "health": {
+    "title": "Sistem Sağlığı",
+    "subtitle": "7/24 veri katmanı · API'ler · DB",
+    "runCheck": "Kontrol Et",
+    "online": "ÇEVRİMİÇİ",
+    "degraded": "KISMİ KESİNTİ",
+    "offline": "ÇEVRİMDIŞI",
+    "fault": "ARIZA",
+    "unknown": "BİLİNMİYOR",
+    "noDataYet": "Henüz veri yok",
+    "missingKey": "Eksik API Anahtarı",
+    "liveLog": "Canlı Log Akışı",
+    "autoRefresh": "● 15sn otomatik yenileme",
+    "noLog": "Log girdisi yok",
+    "components": {
+      "market_data_sync": "Piyasa Verisi (Finnhub/Yahoo)",
+      "ingest_news": "Haber Çekimi (NewsAPI/Yahoo)",
+      "macro_snapshot": "Makro (FRED)",
+      "broker_sync": "Aracı (Alpaca)",
+      "feature_snapshot": "Özellik Deposu",
+      "database": "Veritabanı"
+    }
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "subtitle": "Kimlik ve roller",
+    "signedInAs": "Giriş yapan",
+    "teamRoles": "Ekip ve Roller",
+    "email": "E-posta",
+    "displayName": "Görünen İsim",
+    "currentRole": "Mevcut Rol",
+    "setRole": "Rol Ata",
+    "owner": "Sahip",
+    "operator": "Operatör",
+    "viewer": "İzleyici",
+    "roleUpdated": "Rol güncellendi",
+    "restrictedBefore": "Rol yönetimi yalnızca",
+    "restrictedAfter": " içindir."
+  },
+  "debate": {
+    "title": "Ajan Tartışma Odası",
+    "selectIdeaSubtitle": "Bir fikir seçin",
+    "rerun": "Komiteyi Tekrar Çalıştır (Gemini)",
+    "dispatching": "Görevlendiriliyor…",
+    "noDebatesYet": "Bu fikir için henüz komite çalıştırılmadı",
+    "runFirstCommittee": "Komiteyi şimdi çalıştır",
+    "ideas": "Fikirler",
+    "conflictMatrix": "Çatışma Matrisi",
+    "for": "LEHTE",
+    "against": "ALEYHTE",
+    "caution": "DİKKAT",
+    "neutral": "NÖTR",
+    "transcript": "Tartışma Tutanağı",
+    "noTranscript": "Henüz komite tutanağı yok. Doldurmak için komiteyi çalıştırın.",
+    "awaitingInput": "Girdi bekleniyor…",
+    "conf": "güv",
+    "status": "Durum",
+    "edge": "Edge",
+    "risk": "Risk",
+    "consensus": "Konsensüs",
+    "timing": "Zamanlama",
+    "liquidity": "Likidite",
+    "rrAsymmetry": "R/R Asimetrisi",
+    "riskVerdict": "Risk Kararı",
+    "maxSize": "Maks boyut:",
+    "investmentMemo": "Yatırım Notu",
+    "approve": "Onayla",
+    "reject": "Reddet",
+    "approveBlocked": "Onay engellendi — mevcut mod \"{{mode}}\". Önce Risk İncelemesi çalıştırın.",
+    "overrideMode": "Geçersiz kılma modu — standart protokolü atlar (kaydedildi)",
+    "committeeRoster": "Komite kadrosu",
+    "ideaApproved": "Fikir onaylandı. Emir Yürütme Konsoluna taşındı.",
+    "ideaRejected": "Fikir reddedildi.",
+    "committeeToast": "Komite görevlendirildi. Tartışma akışını izleyin.",
+    "committeeFailed": "Komite çalıştırılamadı",
+    "actionAdvice": {
+      "label": "Ne yapmalı",
+      "positionSize": "Pozisyon büyüklüğü: maks {{pct}}% NAV",
+      "approve": {
+        "title": "Komite onayladı — harekete geç",
+        "steps": [
+          "Onaylamak için aşağıdaki Onayla'ya tıkla",
+          "Yürütme'ye git ve emri ver",
+          "Kararda belirtilen stop-loss'u ayarla",
+          "Sürekli takip için İzleme Listesi'ne ekle"
+        ]
+      },
+      "reduce_size": {
+        "title": "Küçük pozisyonla gir",
+        "steps": [
+          "Fikri küçük boyutla onayla",
+          "Yalnızca belirtilen % NAV kullan",
+          "Stop-loss zorunlu — onsuz girme",
+          "Tez doğrulanırsa pozisyona ekleme yapabilirsin"
+        ]
+      },
+      "wait": {
+        "title": "Bekle — koşullar hazır değil",
+        "steps": [
+          "Şimdi girme — risk haklı değil",
+          "Sembolü İzleme Listesi'ne ekle",
+          "Tezdeki tetikleyiciyi takip et",
+          "Koşullar değiştiğinde komiteyi yeniden çalıştır"
+        ]
+      },
+      "reject": {
+        "title": "Fikir reddedildi — girme",
+        "steps": [
+          "Fikri kapatmak için Reddet'e tıkla",
+          "Dersi kaydetmek için Günlük'te Post-Mortem çalıştır",
+          "Yeni veriler ortaya çıkarsa tezi yeniden değerlendir"
+        ]
+      },
+      "kill_switch": {
+        "title": "Kill Switch — hemen çık",
+        "steps": [
+          "Pozisyonu şu anda piyasadan kapat",
+          "Risk panelinde Kill Switch'i aktif et",
+          "İnceleme yapılana kadar yeni pozisyon açma",
+          "Nedeni Günlük'e kaydet"
+        ]
+      },
+      "no_verdict": {
+        "title": "Önce komiteyi çalıştır",
+        "steps": [
+          "Üstteki «Komiteyi Tekrar Çalıştır»'a tıkla",
+          "13 ajanın tamamının yanıt vermesini bekle",
+          "Risk Yetkilisi kararından sonra — kararını ver"
+        ]
+      }
+    }
+  },
+  "agentChat": {
+    "title": "Ajan Sohbeti",
+    "subtitle": "Herhangi bir uzman ajanla doğrudan konuşun",
+    "history": "Geçmiş",
+    "noHistory": "Henüz konuşma yok",
+    "allCleared": "Tüm geçmiş temizlendi",
+    "clearAll": "Tüm geçmişi temizle",
+    "msgs": "mesaj",
+    "clear": "Temizle",
+    "cleared": "Sohbet geçmişi temizlendi",
+    "errFailed": "Ajan yanıt veremedi",
+    "errEmpty": "Ajandan boş yanıt geldi",
+    "placeholder": "{{name}}'a sorun… (Göndermek için Enter, yeni satır için Shift+Enter)",
+    "footer": "Gemini tarafından desteklenir · Her ajan kendi alanında kalır · Geçmiş yerel olarak saklanır",
+    "agents": {
+      "cio": {
+        "label": "CIO Orkestratörü",
+        "desc": "Komite başkanı, sermaye dağılımı, nihai kanaat"
+      },
+      "macro": {
+        "label": "Makro Stratejist",
+        "desc": "Rejim, faizler, enflasyon, merkez bankaları, FX"
+      },
+      "fundamental": {
+        "label": "Temel Analist",
+        "desc": "Değerleme, kazanç, FCF, çarpanlar, katalizörler"
+      },
+      "bear": {
+        "label": "Ayı Senaryosu",
+        "desc": "Risk tespiti, stres testi, short tezi"
+      },
+      "risk": {
+        "label": "Risk Yöneticisi",
+        "desc": "Pozisyon büyüklüğü, stop-loss, kararlar, kill-switch"
+      },
+      "quant": {
+        "label": "Kantitatif Araştırma",
+        "desc": "Backtest, faktör maruziyeti, Kelly sizing, vol"
+      },
+      "news": {
+        "label": "Haber & NLP",
+        "desc": "Duygu, anlatılar, pozisyonlanma, KAP bildirimleri"
+      },
+      "options": {
+        "label": "Opsiyon / Volatilite",
+        "desc": "IV, skew, Greeks, işlem yapıları, dealer gamma"
+      },
+      "flow": {
+        "label": "Akış & Likidite",
+        "desc": "Dark pool, ETF akışları, içeriden işlemler, likidite"
+      },
+      "portfolio": {
+        "label": "Portföy Yöneticisi",
+        "desc": "Portföy etkisi, yoğunlaşma, korelasyon, NAV"
+      },
+      "execution": {
+        "label": "Emir Yürütme",
+        "desc": "Emir türleri, zamanlama, slipaj, BIST mekaniği"
+      },
+      "operations": {
+        "label": "Operasyonlar",
+        "desc": "Uyum, yaptırımlar, SPK/SEC, PASS veya BLOCK"
+      },
+      "memory": {
+        "label": "Hafıza & Günlük",
+        "desc": "Geçmiş işlemler, günlük dersleri, ajan doğruluğu"
+      }
+    },
+    "starters": {
+      "cio": [
+        "Şu anki piyasa kanaat düzeyi nedir?",
+        "Yüksek kanaatli bir fikrin büyüklüğünü nasıl ayarlamalıyım?",
+        "Komite sürecini adım adım anlat",
+        "Güçlü bir yatırım tezini ne oluşturur?"
+      ],
+      "macro": [
+        "Şu anki makro rejim nedir?",
+        "Fed faiz döngüsü hisseleri nasıl etkiler?",
+        "TCMB'nin TRY duruşu nedir?",
+        "Bu risk-on mu risk-off mu bir ortam?"
+      ],
+      "fundamental": [
+        "AKBNK gibi bir Türk bankasını nasıl değerlerim?",
+        "Bir enerji hissesi için cazip FCF getirisi nedir?",
+        "Bir büyüme hissesi için DCF anlat",
+        "BIST perakende hisseleri için en önemli KPI'lar hangileri?"
+      ],
+      "bear": [
+        "Türk hisselerindeki en büyük riskler neler?",
+        "Bir boğa tezini nasıl stres testine tabi tutarım?",
+        "Hangi muhasebe kırmızı bayraklarına dikkat etmeliyim?",
+        "Yüksek kanaatli bir işlemi ne öldürür?"
+      ],
+      "risk": [
+        "3R'lik bir işlemin büyüklüğünü nasıl ayarlamalıyım?",
+        "Kill switch'i ne zaman devreye almalıyım?",
+        "Volatil bir hisse için doğru stop-loss nedir?",
+        "Maksimum pozisyon büyüklüğünü nasıl hesaplarım?"
+      ],
+      "quant": [
+        "Momentum kurulumlarının tarihsel isabet oranı nedir?",
+        "Bu işlem için Kelly oranını nasıl hesaplarım?",
+        "BIST100 üzerindeki gerçekleşen volatilite nedir?",
+        "Bir mean-reversion stratejisini nasıl backtest ederim?"
+      ],
+      "news": [
+        "Kontra bir işlem için duyguyu nasıl okurum?",
+        "AKBNK için hangi KAP bildirimlerini izlemeliyim?",
+        "Analist konsensüsü ne zaman bir fade sinyali olur?",
+        "Piyasadaki anlatı değişimlerini nasıl takip ederim?"
+      ],
+      "options": [
+        "Bir işlem kurulumu için IV rank'i nasıl okurum?",
+        "Sınırlı riskli boğa görüşü için en iyi yapı nedir?",
+        "Dealer gamma spot fiyatı nasıl etkiler?",
+        "BIST hisseleri için opsiyon alternatifleri neler?"
+      ],
+      "flow": [
+        "Kurumsal birikimi nasıl tespit ederim?",
+        "Yabancı akışı BIST hakkında bize ne söyler?",
+        "Dark pool baskılarını nasıl okurum?",
+        "En güvenilir içeriden işlem sinyalleri hangileri?"
+      ],
+      "portfolio": [
+        "Ne kadar TRY maruziyeti çok fazla?",
+        "Yeni bir pozisyonun korelasyon riski eklediğini nasıl kontrol ederim?",
+        "Portföyü ne zaman dengelemeliyim?",
+        "Volatil bir piyasada doğru nakit seviyesi nedir?"
+      ],
+      "execution": [
+        "AKBNK için limit mi market emri mi kullanmalıyım?",
+        "BIST günlük fiyat limitleri nedir?",
+        "Etkiyi azaltmak için pozisyona nasıl kademeli girerim?",
+        "BIST'te işlem için en iyi zaman nedir?"
+      ],
+      "operations": [
+        "AKBNK herhangi bir kısıtlı listede mi?",
+        "BIST hisse senedi işlemlerine hangi SPK kuralları uygulanır?",
+        "KAP bildirim yükümlülükleri nelerdir?",
+        "Bir Türk bankasında short pozisyon için uyumu kontrol et"
+      ],
+      "memory": [
+        "Geçmiş BIST işlemlerinden ne öğrendik?",
+        "Enerjide en doğru ajanlar hangileri oldu?",
+        "Günlükte hangi hataları tekrarladık?",
+        "Son 5 post-mortem'in derslerini özetle"
+      ]
+    }
+  },
+  "agentChatSection": {
+    "label": "Komiteyle konuş",
+    "titleA": "Herhangi bir ajana sor.",
+    "titleB": "Doğrudan cevap al.",
+    "subtitle": "13 ajanın her biri kendi alanında kalır. Risk Yöneticisine pozisyon büyüklüğünü sor. Ayı Senaryosuna tezini stres testine tabi tutmasını söyle. CIO'dan nihai kanaat iste.",
+    "agents": [
+      {
+        "name": "CIO",
+        "desc": "Nihai kanaat, sermaye dağılımı"
+      },
+      {
+        "name": "Makro",
+        "desc": "Rejim, faizler, merkez bankaları"
+      },
+      {
+        "name": "Temel",
+        "desc": "Değerleme, kazanç, FCF"
+      },
+      {
+        "name": "Ayı",
+        "desc": "Stres testi, short tezi"
+      },
+      {
+        "name": "Risk",
+        "desc": "Pozisyon büyüklüğü, stop-loss, veto"
+      },
+      {
+        "name": "Kantitatif",
+        "desc": "Backtest, Kelly sizing, vol"
+      },
+      {
+        "name": "Haber",
+        "desc": "Duygu, KAP bildirimleri"
+      },
+      {
+        "name": "Opsiyon",
+        "desc": "IV, skew, işlem yapıları"
+      },
+      {
+        "name": "Akış",
+        "desc": "Dark pool, ETF akışları, içeriden"
+      },
+      {
+        "name": "Portföy",
+        "desc": "Yoğunlaşma, korelasyon, NAV"
+      },
+      {
+        "name": "Yürütme",
+        "desc": "Emir türleri, zamanlama, slipaj"
+      },
+      {
+        "name": "Operasyonlar",
+        "desc": "Uyum, SPK/SEC, PASS/BLOCK"
+      },
+      {
+        "name": "Hafıza",
+        "desc": "Geçmiş işlemler, günlük dersleri"
+      }
+    ],
+    "cta": "Ajan Sohbetini Aç"
+  },
+  "scenarios": {
+    "label": "Nasıl çalıştığını gör",
+    "titleA": "Gerçek senaryolar.",
+    "titleB": "Gerçek iş akışı.",
+    "subtitle": "Bir fikir gördüğün andan emri verdiğin ana kadar tam olarak ne olduğu burada.",
+    "items": [
+      {
+        "step": "01",
+        "title": "AKBNK'nın kırıldığını görüyorsun",
+        "body": "İzleme Listesi'ne tetik notu ile ekle: '52 haftalık yüksek üzerinde hacimli kırılım.' Sistem onu diğer adaylarınla birlikte takip eder."
+      },
+      {
+        "step": "02",
+        "title": "Tartışma Odası'na yükselt",
+        "body": "Tek tıkla fikri komiteye gönder. 13 ajan tezi alır ve tartışmaya başlar — Makro rejimi kontrol eder, Temel değerlemeyi inceler, Ayı açığı arar."
+      },
+      {
+        "step": "03",
+        "title": "Komite kararını verir",
+        "body": "7 ajan LEHTE, 3 DİKKAT, 2 ALEYHTE, 1 RİSK VETOSU. Risk Yetkilisi pozisyonu %6 NAV ile sınırlar ve zorunlu stop -1.5R olarak belirlenir. Tartışma kayıt altında."
+      },
+      {
+        "step": "04",
+        "title": "İncele ve onayla",
+        "body": "Tam tutanağı oku, Yatırım Notunu kontrol et ve Onayla'ya tıkla. Emir Yürütme Konsoluna geçer — imzan olmadan hiçbir şey yürütülmez."
+      },
+      {
+        "step": "05",
+        "title": "İşlem kapanır. Post-mortem çalışır.",
+        "body": "Pozisyonu kapattığında sistem her ajanın tutumunu gerçekleşen K/Z'ye karşı puanlar. Hafıza ajanı dersi saklar. Bir dahaki AKBNK geldiğinde komite zaten biliyor."
+      }
+    ]
+  },
+  "forWhom": {
+    "label": "Bu kimin için",
+    "titleA": "Kanaatiyle işlem yapan",
+    "titleB": "tek bir operatör için.",
+    "subtitle": "Robo-danışman değil. Tarayıcı değil. Senin için çalışan ve yalnızca sen söylediğinde yürüten tam bir yatırım komitesi.",
+    "profiles": [
+      {
+        "title": "Tercihli Trader",
+        "body": "Güçlü görüşlerin ve bir geçmişin var. Büyük pozisyon almadan önce tezini sorgulayan bir sisteme ihtiyacın var — sonrasında değil."
+      },
+      {
+        "title": "Family Office PM",
+        "body": "Gerçek hesap verebilirlikle yoğunlaşmış pozisyonlar yönetiyorsun. Her işlemin belgelenmiş, tartışılmış ve denetlenebilir olması gerekiyor."
+      },
+      {
+        "title": "Prop Masa Operatörü",
+        "body": "Katı risk limitleriyle bir defter yönetiyorsun. Kill switch ve pozisyon limitleri isteğe bağlı değil — sistemin kendisi."
+      },
+      {
+        "title": "Bağımsız Analist",
+        "body": "Araştırmayı yapıyorsun ama altyapın yok. Atlantix Finance sana tek bir terminalde tam komite, RAG hafızası ve yürütme iş akışı veriyor."
+      }
+    ]
+  },
+  "nextSteps": {
+    "label": "Sırada ne var",
+    "titleA": "Bilgin var.",
+    "titleB": "Şimdi kullan.",
+    "subtitle": "İlk girişten ilk komite onaylı işleme giden tam yol burada.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Operatör hesabını oluştur",
+        "body": "Kaydol ve Komuta Merkezi'ne eriş. Portföyün, izleme listen ve ajan hafızan hesabına özel."
+      },
+      {
+        "n": "02",
+        "title": "İlk fikrini İzleme Listesi'ne ekle",
+        "body": "Zaten görüşün olan bir sembol seç. Tetik notu ekle. Başlangıç noktası bu — boş ekran değil."
+      },
+      {
+        "n": "03",
+        "title": "Komiteyi çalıştır",
+        "body": "Fikri Tartışma Odası'na yükselt ve Komiteyi Çalıştır'a tıkla. 13 ajanın tezini gerçek zamanlı tartıştığını izle."
+      },
+      {
+        "n": "04",
+        "title": "Kararı oku. Onayla ya da reddet.",
+        "body": "Risk Yetkilisi sana bir pozisyon limiti ve stop-loss verecek. Kabul edersen — onayla. Etmezsen — reddet ve nedeni kaydet."
+      },
+      {
+        "n": "05",
+        "title": "İşlemi kapat. Post-mortem çalıştır.",
+        "body": "İşlem kapandıktan sonra Günlük'te post-mortem çalıştır. Sistem ajanları puanlar ve dersi hafızaya kaydeder."
+      }
+    ]
+  },
+  "auth": {
+    "back": "Geri",
+    "tagline": "Otonom Dijital Hedge Fon (Hedge Fund) Terminali",
+    "emailLabel": "Operatör e-postası",
+    "passwordLabel": "Erişim anahtarı",
+    "authenticating": "Kimlik doğrulanıyor…",
+    "enterTerminal": "Terminale Gir",
+    "createOperator": "Operatör Oluştur",
+    "newOperator": "Yeni operatör? Erişim oluştur",
+    "existingOperator": "Mevcut operatör? Giriş yap",
+    "accountCreated": "Hesap oluşturuldu. E-postanızı doğrulayın, ardından giriş yapın.",
+    "welcome": "Atlantix Lab'e hoş geldiniz",
+    "failed": "Kimlik doğrulama başarısız"
+  },
+  "shell": {
+    "initializing": "Atlantix Finance başlatılıyor…",
+    "openMenu": "Menüyü aç",
+    "navigation": "Navigasyon",
+    "backToTop": "Başa dön"
+  },
+  "shariahGuard": {
+    "title": "Shariah Guard İstasyonu",
+    "subtitle": "İslami finans uyumu · Zoya destekli tarama",
+    "strictMode": "Katı Shariah Modu",
+    "strictModeDesc": "Short satışı devre dışı bırakır ve komitede Shariah Alimi rolünü etkinleştirir",
+    "syncZoya": "Zoya ile Senkronize Et",
+    "syncing": "Senkronize ediliyor…",
+    "syncSuccess": "{{n}} varlık Zoya ile senkronize edildi",
+    "syncFailed": "Zoya senkronizasyonu başarısız",
+    "complianceMonitor": "Uyum Monitörü",
+    "complianceDesc": "İzleme listesi varlıkları için Shariah taraması",
+    "ticker": "Sembol",
+    "name": "Ad",
+    "status": "Durum",
+    "debtMc": "Borç/PD",
+    "cashMc": "Nakit/PD",
+    "haramRev": "Haram Gelir",
+    "compliant": "Uyumlu",
+    "nonCompliant": "Uyumsuz",
+    "questionable": "Şüpheli",
+    "notScreened": "Taranmadı",
+    "purificationEngine": "Arındırma Motoru",
+    "purificationDesc": "İşlem günlüğünden zekât ve arındırma tutarları",
+    "currentMonth": "Bu Ay",
+    "totalPurification": "Toplam Arındırma Tutarı",
+    "noPurification": "Bu ay kayıtlı arındırma tutarı yok",
+    "noWatchlist": "İzleme listesinde varlık yok",
+    "mockBadge": "Mock Veri",
+    "mockNote": "ZOYA_API_KEY ayarlanmamış — mock uyum verisi gösteriliyor"
+  },
+  "terminalMode": {
+    "mode": "Mod",
+    "activeMode": "Aktif mod",
+    "research": {
+      "label": "Araştırma",
+      "hint": "Fikir keşfi, işlem yok"
+    },
+    "watch": {
+      "label": "İzleme",
+      "hint": "Sadece varlık ve olay takibi"
+    },
+    "committee": {
+      "label": "Komite",
+      "hint": "Ajanlar aktif fikir üzerinde tartışıyor"
+    },
+    "risk_review": {
+      "label": "Risk İncelemesi",
+      "hint": "Risk kapısı aktif, karar bekleniyor"
+    },
+    "execution": {
+      "label": "Yürütme",
+      "hint": "Onaylanmış emir hazırlığı ve gönderimi"
+    },
+    "live": {
+      "label": "Canlı",
+      "hint": "Açık pozisyonlar yönetiliyor"
+    },
+    "post_mortem": {
+      "label": "Post-Mortem",
+      "hint": "Kapanan işlemler inceleniyor"
+    },
+    "emergency": {
+      "label": "Acil Durum",
+      "hint": "İşlem durduruldu, sadece tanılama"
+    }
+  },
+  "dataSource": {
+    "label": "Veri kaynağı",
+    "portfolio": "Pozisyonlar ve P&L Alpaca brokerinden senkronize edilir; broker-sync-portfolio cron işi ile güncellenir.",
+    "macro": "Makro seriler FRED API'sinden çekilir (faiz, TÜFE, DXY, işsizlik); günlük macro-snapshot işi tarafından güncellenir.",
+    "journal": "İşlem günlüğü kapanan pozisyonlardan otomatik oluşturulur; post-mortem'ler generate-postmortem fonksiyonu ile yazılır.",
+    "news": "Haberler NewsAPI + KAP entegrasyonu üzerinden ingest-news işi ile alınır.",
+    "ideas": "Fikirler operatör tarafından eklenir veya score-idea / fundamental-snapshot taramalarından doğar.",
+    "debate": "Tartışmalar gerçek Gemini ajanları tarafından run-committee fonksiyonu ile üretilir; her mesaj agent_debates tablosuna kaydedilir."
+  }
+}

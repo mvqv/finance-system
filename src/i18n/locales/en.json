@@ -1,0 +1,1118 @@
+{
+  "common": {
+    "open": "Open",
+    "moreCases": "More cases →",
+    "language": "Language",
+    "signOut": "Sign out",
+    "expand": "Expand sidebar",
+    "collapse": "Collapse sidebar"
+  },
+  "nav": {
+    "services": "Services",
+    "cases": "Case Studies",
+    "approach": "Approach",
+    "tech": "Tech",
+    "faq": "FAQ",
+    "enterTerminal": "Enter Terminal"
+  },
+  "sidebar": {
+    "tagline": "Hedge Fund Terminal",
+    "items": {
+      "dashboard": "Command Center",
+      "opportunities": "Opportunities",
+      "debate": "Debate Room",
+      "risk": "Risk",
+      "portfolio": "Portfolio",
+      "news": "News Intel",
+      "macro": "Macro Radar",
+      "watchlist": "Watchlist",
+      "execution": "Execution",
+      "research": "Research",
+      "journal": "Journal",
+      "health": "System Health",
+      "settings": "Settings",
+      "shariahGuard": "Shariah Guard",
+      "agentChat": "Agent Chat",
+      "graph": "Knowledge Graph",
+      "operations": "Operations",
+      "alerts": "Alerts",
+      "agents": "Agent Scorecards"
+    }
+  },
+  "hero": {
+    "titleA": "Your Edge. Your Rules.",
+    "titleB": "Your Terminal.",
+    "subtitle": "13 specialist AI agents debate every trade idea on the record — with risk veto, RAG memory and your final approval. Built for one operator who trades with conviction.",
+    "ctaPrimary": "Enter the Terminal",
+    "noCard": "No credit card required",
+    "ownerApproved": "Owner-approved every trade",
+    "ragMemory": "RAG memory — no hallucinations",
+    "riskVeto": "Risk engine holds veto"
+  },
+  "trusted": {
+    "label": "Connected to 8+ live market data sources"
+  },
+  "bottlenecks": {
+    "label": "The problem",
+    "title": "Most traders lose not because of bad ideas — but because of broken process.",
+    "rows": [
+      "You spot a setup but have no structured way to stress-test it before entering.",
+      "You rely on one model or one view — no one argues the other side.",
+      "Risk is managed in your head, not enforced by a system.",
+      "You repeat the same mistakes because past trades are never properly reviewed.",
+      "News breaks, macro shifts — but your thesis doesn't update in real time."
+    ]
+  },
+  "services": {
+    "label": "What's inside",
+    "titleA": "Ten panels. One",
+    "titleB": "conviction.",
+    "subtitle": "Every panel below runs on the same components as the live terminal. The data is illustrative — the logic is real.",
+    "items": {
+      "debate": {
+        "title": "Agent Debate Room",
+        "body": "Watch the committee disagree. FOR / AGAINST / CAUTION stances per agent — the conflict is the signal, not the summary."
+      },
+      "opportunities": {
+        "title": "Live Opportunities",
+        "body": "Ranked by Edge, gated by Risk, sorted by Asymmetry (R/R). One-click promotion into the Debate Room."
+      },
+      "macro": {
+        "title": "Macro Radar",
+        "body": "FRED + Yahoo Finance series with weekly / monthly deltas. The regime pill drives every other panel."
+      },
+      "research": {
+        "title": "Research & Memory",
+        "body": "Ask the system anything. Answers carry inline citations to memos, trades and ingested news."
+      },
+      "journal": {
+        "title": "Trade Journal",
+        "body": "Every trade gets a post-mortem. Agent stances are scored against realized PnL — accuracy compounds over time."
+      },
+      "health": {
+        "title": "System Health",
+        "body": "API pings, latency, error stream. If a yellow dot appears, you see why — not just that it happened."
+      },
+      "portfolio": {
+        "title": "Portfolio",
+        "body": "Open positions, NAV weight, unrealized P&L. Full exposure at a glance — long/short breakdown with live mark prices."
+      },
+      "risk": {
+        "title": "Risk Cockpit",
+        "body": "Kill switch, position caps, recent verdicts. The risk engine holds veto — edge never overrides it."
+      },
+      "watchlist": {
+        "title": "Watchlist",
+        "body": "Pre-trade observations with trigger notes. One-click promote to the Debate Room when conditions are met."
+      },
+      "agentChat": {
+        "title": "Agent Chat",
+        "body": "Direct conversation with any of the 13 specialist agents. Ask the CIO, Risk Manager or any domain expert directly."
+      }
+    }
+  },
+  "cases": {
+    "label": "Real trades. Real verdicts.",
+    "titleA": "What the",
+    "titleB": "committee caught.",
+    "items": [
+      {
+        "year": "Q3 2025",
+        "title": "Energy supercycle: long XOM on OPEC+ discipline.",
+        "metrics": [
+          [
+            "+2.1R",
+            "Realized return"
+          ],
+          [
+            "9",
+            "Sessions held"
+          ],
+          [
+            "7/9",
+            "Agents in favor"
+          ]
+        ]
+      },
+      {
+        "year": "Q4 2025",
+        "title": "Risk veto saved -3.4R on a TLT short before CPI.",
+        "metrics": [
+          [
+            "-0.0R",
+            "Realized return"
+          ],
+          [
+            "1",
+            "Risk veto"
+          ],
+          [
+            "3/9",
+            "Agents against"
+          ]
+        ]
+      }
+    ]
+  },
+  "approach": {
+    "label": "How it works",
+    "titleA": "Signal in. Audited trade",
+    "titleB": "out.",
+    "steps": [
+      {
+        "title": "Discover",
+        "body": "Ingest market data, news and macro into a unified store. Watchlist + screener surface candidates with edge, risk and asymmetry."
+      },
+      {
+        "title": "Debate",
+        "body": "Thirteen specialist agents argue every idea on the record. Macro, Fundamental, News, Options, Flow, Quant, Bear, Risk, Portfolio, CIO, Execution, Operations, Memory."
+      },
+      {
+        "title": "Gate",
+        "body": "The risk engine holds veto. Drawdown caps, correlation limits and kill switches are first-class — edge never overrides risk."
+      },
+      {
+        "title": "Ship",
+        "body": "Owner reviews the debate, signs the order. Outcomes are logged, agent stances scored against realized PnL, memory grows."
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Operators speak",
+    "title": "What changes after the first committee run.",
+    "items": [
+      {
+        "quote": "Atlantix replaced three Bloomberg tabs and a Discord of analysts. The Debate Room is exactly how I think — but on the record.",
+        "who": "Operator A.",
+        "role": "Long/short equity, $40M book"
+      },
+      {
+        "quote": "Risk veto caught a TLT short I was about to ship before CPI. That single block paid for the terminal twice over.",
+        "who": "Operator B.",
+        "role": "Macro, family office"
+      },
+      {
+        "quote": "RAG citations changed everything. The system tells me which memo and which trade — not vibes, receipts.",
+        "who": "Operator C.",
+        "role": "Discretionary, prop desk"
+      }
+    ]
+  },
+  "difference": {
+    "titleA": "Built different.",
+    "titleB": "Runs different.",
+    "otherTools": "Other tools",
+    "atlantix": [
+      "Thirteen specialist agents argue every idea on record",
+      "Risk engine holds veto over edge score",
+      "RAG memory with hard citations to memos & trades",
+      "Owner-approved execution, fully audited",
+      "Live FRED + Yahoo + news pipeline",
+      "Post-mortem scores every agent's stance",
+      "Built around one operator with conviction"
+    ],
+    "others": [
+      "Single LLM summarizing into one black box",
+      "Edge metric overrides risk caps",
+      "Hallucinated history, no source links",
+      "Auto-trading without human gate",
+      "Static spreadsheets, weekly refresh",
+      "Trade journal is a forgotten doc",
+      "Generic tool, no operator workflow"
+    ]
+  },
+  "stack": {
+    "label": "Under the hood",
+    "titleA": "The",
+    "titleMid": "infrastructure",
+    "titleB": "that never sleeps.",
+    "items": [
+      {
+        "name": "Alpaca",
+        "body": "US equities + options execution and broker state sync."
+      },
+      {
+        "name": "Yahoo Finance",
+        "body": "Historical prices, intraday quotes and corporate actions."
+      },
+      {
+        "name": "FRED",
+        "body": "Macroeconomic series — rates, CPI, DXY, unemployment."
+      },
+      {
+        "name": "Google Gemini API",
+        "body": "Gemini 2.5 Pro / Flash LLM powering every agent's reasoning."
+      },
+      {
+        "name": "Supabase",
+        "body": "Vector store for RAG, RLS-secured journals and pg_cron jobs."
+      },
+      {
+        "name": "CCXT",
+        "body": "Unified crypto market data for BTC, ETH and majors."
+      }
+    ]
+  },
+  "faq": {
+    "label": "Questions",
+    "title": "Everything you need to know before you enter.",
+    "items": [
+      {
+        "q": "Who is Atlantix Lab built for?",
+        "a": "One operator with conviction — a discretionary trader, family office PM or prop-desk lead who wants an agentic committee on the record instead of a black-box autotrader."
+      },
+      {
+        "q": "Does it execute trades autonomously?",
+        "a": "No. Nothing executes until the owner approves. The terminal proposes — the operator commits. Every order is logged with the originating debate and risk verdict."
+      },
+      {
+        "q": "What data sources are connected live?",
+        "a": "Alpaca for execution and portfolio state, Yahoo Finance for prices and history, FRED for macro series, an aggregated news API, and CCXT for crypto. System Health surfaces every API status in real time."
+      },
+      {
+        "q": "How does the RAG memory work?",
+        "a": "Trade memos, journals and ingested news are embedded into a Supabase vector store. Every assistant answer cites the underlying memo or trade by ID — clickable, auditable, never hallucinated."
+      },
+      {
+        "q": "What happens if the risk engine vetoes a trade?",
+        "a": "It blocks. Edge score never overrides risk. The veto reason is logged, the debate stays in the journal, and the operator sees both the agent consensus and the risk decision side by side."
+      }
+    ]
+  },
+  "cta": {
+    "label": "The committee is live",
+    "titleA": "Stop trading alone.",
+    "titleMid": "Bring a committee.",
+    "titleB": "",
+    "sub": "13 agents. Your rules. One approval.",
+    "createOperator": "Enter the Terminal",
+    "openCC": "Open Command Center",
+    "footer": "13-agent AI investment committee · Risk-gated · Owner-approved · Always audited"
+  },
+  "preview": {
+    "title": "Command Center",
+    "subtitle": "Live operator view",
+    "totalEquity": "Total Equity",
+    "cash": "Cash",
+    "dailyPnl": "Daily PnL",
+    "riskUsed": "Risk Used",
+    "topEdge": "Top Edge Ideas",
+    "systemStatus": "System Status",
+    "edge": "Edge",
+    "risk": "Risk",
+    "cons": "Cons"
+  },
+  "dashboard": {
+    "title": "Command Center",
+    "subtitle": "Live operator view",
+    "totalEquity": "Total Equity",
+    "cash": "Cash",
+    "dailyPnl": "Daily PnL",
+    "dailyRiskUsed": "Daily Risk Used",
+    "topEdgeIdeas": "Top Edge Ideas",
+    "systemStatus": "System Status",
+    "openPositions": "Open Positions",
+    "activeIdeas": "Active Ideas",
+    "awaitingApprovalCount": "{{count}} awaiting approval",
+    "debatingCount": "{{count}} debating",
+    "lastVerdict": "Last Verdict",
+    "noVerdictsYet": "No verdicts yet",
+    "system": "System",
+    "issues": "Issues",
+    "degraded": "Degraded",
+    "healthy": "Healthy",
+    "lastAt": "Last: {{time}}",
+    "operatorBulletin": "Operator Bulletin",
+    "noPendingActions": "No pending actions or alerts",
+    "review": "Review",
+    "bulletinAwaitingApproval": "{{ticker}} {{side}} — awaiting your approval",
+    "noActiveIdeas": "No active ideas.",
+    "noOpenPositions": "No open positions.",
+    "edge": "Edge",
+    "risk": "Risk",
+    "consensus": "Consensus",
+    "navWeight": "NAV",
+    "bulletins": [
+      "Agent committee runs on Gemini. Owner has final approval on every trade.",
+      "Risk Engine holds veto over Edge Score. Kill switch available in Risk panel.",
+      "Debate Room shows live 13-agent committee. Open the top XOM idea to inspect."
+    ]
+  },
+  "common": {
+    "unknown": "Unknown"
+  },
+  "side": {
+    "long": "Long",
+    "short": "Short"
+  },
+  "status": {
+    "draft": "Draft",
+    "researching": "Researching",
+    "debating": "Debating",
+    "risk_review": "Risk Review",
+    "awaiting_approval": "Awaiting Approval",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "executed": "Executed",
+    "closed": "Closed",
+    "invalidated": "Invalidated"
+  },
+  "verdict": {
+    "approve": "Approve",
+    "reduce_size": "Reduce Size",
+    "wait": "Wait",
+    "reject": "Reject",
+    "kill_switch": "Kill Switch"
+  },
+  "regime": {
+    "risk_on": "Risk-On",
+    "risk_off": "Risk-Off",
+    "neutral": "Neutral",
+    "inflation_shock": "Inflation Shock",
+    "liquidity_squeeze": "Liquidity Squeeze"
+  },
+  "opportunities": {
+    "title": "Live Opportunities",
+    "subtitle": "Ranked by Edge Score",
+    "ticker": "Ticker",
+    "class": "Class",
+    "idea": "Idea",
+    "side": "Side",
+    "status": "Status",
+    "edge": "Edge",
+    "risk": "Risk",
+    "consensus": "Consensus",
+    "rr": "R/R",
+    "action": "Action",
+    "run": "Run",
+    "running": "Running…",
+    "committeeDispatched": "Committee dispatched",
+    "failed": "Failed",
+    "workflowLabel": "How to use Pipeline",
+    "workflowBody": "This is not a buy/sell toy list. It is a queue of hypotheses: thesis and metrics first, committee run second, risk verdict third, execution only after approval.",
+    "metricsLabel": "What the metrics mean",
+    "metricsBody": "Edge = thesis potential, Risk = constraints, Consensus = role agreement, R/R = payoff asymmetry. High edge without risk approval is not an entry signal.",
+    "nextLabel": "Next action",
+    "nextBody": "Run Committee only on ideas with a clear thesis. If data is missing, enrich research/watchlist before execution."
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Open Positions & Exposure",
+    "refreshPrices": "Refresh Prices",
+    "syncBroker": "Sync Broker",
+    "totalEquity": "Total Equity",
+    "cash": "Cash",
+    "dailyPnl": "Daily P&L",
+    "dailyRiskUsed": "Daily Risk Used",
+    "openPositions": "Open Positions",
+    "ticker": "Ticker",
+    "side": "Side",
+    "qty": "Qty",
+    "avg": "Avg",
+    "mark": "Mark",
+    "weight": "Weight",
+    "upnl": "uPnL",
+    "slTp": "SL / TP",
+    "noOpenPositions": "No open positions"
+  },
+  "risk": {
+    "title": "Risk Cockpit",
+    "subtitle": "Committee verdicts & guardrails",
+    "killSwitch": "Kill Switch",
+    "engaged": "ENGAGED",
+    "disarmed": "DISARMED",
+    "reasonPlaceholder": "Reason to engage",
+    "disarm": "Disarm",
+    "engage": "Engage",
+    "dailyRiskUsed": "Daily Risk Used",
+    "ofDailyLimit": "of daily limit",
+    "verdictDist": "Verdict Distribution (all time)",
+    "sectorConcentration": "Sector Concentration (open positions)",
+    "positionsNoStop": "Positions Without Stop-Loss",
+    "atRiskCount": "{{count}} at risk",
+    "allHaveStop": "All open positions have stop-loss set",
+    "setStop": "Set Stop",
+    "marketLimits": "Market Limits",
+    "market": "Market",
+    "maxPosition": "Max Position",
+    "maxDailyRisk": "Max Daily Risk",
+    "maxGrossExposure": "Max Gross Exposure",
+    "notes": "Notes",
+    "stressTests": "Stress Test Results",
+    "scenario": "Scenario",
+    "projectedPnL": "Projected P&L",
+    "maxDrawdown": "Max Drawdown",
+    "worstPosition": "Worst Position",
+    "computed": "Computed",
+    "reEvaluate": "Re-evaluate Risk",
+    "selectIdea": "Select idea…",
+    "run": "Run",
+    "recentVerdicts": "Recent Verdicts",
+    "idea": "Idea",
+    "side": "Side",
+    "verdict": "Verdict",
+    "maxPos": "Max Pos %",
+    "rationale": "Rationale",
+    "noVerdictsYet": "No verdicts yet — run the committee on an idea first",
+    "openDebate": "Debate",
+    "pickIdea": "Pick an idea",
+    "reEvaluated": "Risk re-evaluated",
+    "reasonRequired": "Reason required to engage kill switch",
+    "engagedToast": "Kill switch ENGAGED",
+    "disarmedToast": "Kill switch disarmed",
+    "failed": "Failed"
+  },
+  "watchlist": {
+    "title": "Watchlist",
+    "subtitle": "Pre-trade observations",
+    "addTicker": "Add Ticker",
+    "addToWatchlist": "Add to Watchlist",
+    "ticker": "Ticker",
+    "name": "Name",
+    "class": "Class",
+    "sector": "Sector",
+    "trigger": "Trigger",
+    "triggerNote": "Trigger note",
+    "actions": "Actions",
+    "empty": "Empty watchlist",
+    "promote": "Promote",
+    "add": "Add",
+    "tickerRequired": "Ticker required",
+    "added": "Added to watchlist",
+    "promoted": "Promoted to idea",
+    "failed": "Failed",
+    "filter": "Filter",
+    "all": "All",
+    "country": "Country",
+    "seedBist": "Seed BIST Universe",
+    "shariahOnly": "Shariah-compliant only",
+    "shariahColumn": "Shariah",
+    "seedExists": "BIST universe already in watchlist",
+    "seeded": "Added {{n}} BIST tickers",
+    "seedFailed": "Seed failed"
+  },
+  "news": {
+    "title": "News Intel",
+    "subtitle": "Signals, catalysts & sentiment",
+    "ingest": "Ingest News",
+    "ingesting": "Ingesting…",
+    "filterTickers": "Filter tickers (AAPL, TSLA…)",
+    "minImportance": "Min importance",
+    "ingestedToast": "Ingested {{n}} articles",
+    "ingestFailed": "Ingest failed",
+    "noEventsBefore": "No events. Press",
+    "noEventsAfter": "to fetch.",
+    "open": "open",
+    "imp": "imp"
+  },
+  "macro": {
+    "title": "Macro Radar",
+    "subtitle": "FRED-driven regime snapshot",
+    "refresh": "Refresh",
+    "noDataBefore": "No macro data yet. Press",
+    "noDataAfter": "to pull from FRED.",
+    "syncedToast": "Macro synced — regime: {{regime}}",
+    "syncFailed": "Macro sync failed"
+  },
+  "execution": {
+    "title": "Execution Console",
+    "subtitle": "Order book & approvals",
+    "newOrder": "New Order",
+    "time": "Time",
+    "ticker": "Ticker",
+    "idea": "Idea",
+    "side": "Side",
+    "type": "Type",
+    "qty": "Qty",
+    "limit": "Limit",
+    "status": "Status",
+    "actions": "Actions",
+    "noOrders": "No orders",
+    "send": "Send",
+    "submitted": "Submitted to broker",
+    "submitFailed": "Submit failed",
+    "cancelled": "Cancelled",
+    "orderCreated": "Order created (pending approval)",
+    "tickerRequired": "Ticker required",
+    "longBuy": "Long (Buy)",
+    "shortSell": "Short (Sell)",
+    "market": "Market",
+    "limitOpt": "Limit",
+    "quantity": "Quantity",
+    "limitPrice": "Limit Price",
+    "cancel": "Cancel",
+    "create": "Create"
+  },
+  "research": {
+    "title": "Research",
+    "subtitle": "Investment memos & semantic memory",
+    "askMemory": "Ask Memory",
+    "askPlaceholder": "What did we learn about NVDA earnings reactions?",
+    "ask": "Ask",
+    "searching": "Searching…",
+    "sources": "Sources",
+    "indexNote": "Index Note",
+    "titlePh": "Title",
+    "notePh": "Free-form note, learning, or reference text…",
+    "indexBtn": "Index",
+    "indexing": "Indexing…",
+    "indexed": "Indexed",
+    "titleContentRequired": "Title and content required",
+    "queryFailed": "Query failed",
+    "indexingFailed": "Indexing failed",
+    "noMemos": "No memos yet",
+    "manual": "manual",
+    "sim": "sim"
+  },
+  "journal": {
+    "title": "Trade Journal",
+    "subtitle": "Closed trades · Agent audit trail",
+    "closed": "Closed",
+    "ticker": "Ticker",
+    "idea": "Idea",
+    "side": "Side",
+    "pnl": "P&L",
+    "agentAccuracy": "Agent Accuracy",
+    "triggerReason": "Trigger / Reason Out",
+    "postMortem": "Post-mortem",
+    "noClosedTrades": "No closed trades",
+    "score": "Score",
+    "run": "Run",
+    "postMortemGenerated": "Post-mortem generated",
+    "dialogTitle": "Post-Mortem",
+    "summary": "Summary",
+    "whatWorked": "What worked:",
+    "whatFailed": "What failed:",
+    "lessons": "Lessons:",
+    "originalDebate": "Original Debate vs. Outcome",
+    "noDebateRecorded": "No debate recorded.",
+    "neutral": "neutral"
+  },
+  "health": {
+    "title": "System Health",
+    "subtitle": "24/7 data layer · APIs · DB",
+    "runCheck": "Run Check",
+    "online": "ONLINE",
+    "degraded": "DEGRADED",
+    "offline": "OFFLINE",
+    "fault": "FAULT",
+    "unknown": "UNKNOWN",
+    "noDataYet": "No data yet",
+    "missingKey": "API Key Missing",
+    "liveLog": "Live Log Stream",
+    "autoRefresh": "● auto-refresh 15s",
+    "noLog": "No log entries yet",
+    "components": {
+      "market_data_sync": "Market Data (Finnhub/Yahoo)",
+      "ingest_news": "News Ingest (NewsAPI/Yahoo)",
+      "macro_snapshot": "Macro (FRED)",
+      "broker_sync": "Broker (Alpaca)",
+      "feature_snapshot": "Feature Store",
+      "database": "Database"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Identity & roles",
+    "signedInAs": "Signed in as",
+    "teamRoles": "Team & Roles",
+    "email": "Email",
+    "displayName": "Display Name",
+    "currentRole": "Current Role",
+    "setRole": "Set Role",
+    "owner": "Owner",
+    "operator": "Operator",
+    "viewer": "Viewer",
+    "roleUpdated": "Role updated",
+    "restrictedBefore": "Role management is restricted to",
+    "restrictedAfter": "."
+  },
+  "debate": {
+    "title": "Agent Debate Room",
+    "selectIdeaSubtitle": "Select an idea",
+    "rerun": "Re-run Committee (Gemini)",
+    "dispatching": "Dispatching…",
+    "noDebatesYet": "No committee run yet for this idea",
+    "runFirstCommittee": "Run committee now",
+    "ideas": "Ideas",
+    "conflictMatrix": "Conflict Matrix",
+    "for": "FOR",
+    "against": "AGAINST",
+    "caution": "CAUTION",
+    "neutral": "NEUTRAL",
+    "transcript": "Debate Transcript",
+    "noTranscript": "No committee transcript yet. Run the committee to populate.",
+    "awaitingInput": "Awaiting input…",
+    "conf": "conf",
+    "status": "Status",
+    "edge": "Edge",
+    "risk": "Risk",
+    "consensus": "Consensus",
+    "timing": "Timing",
+    "liquidity": "Liquidity",
+    "rrAsymmetry": "R/R Asymmetry",
+    "riskVerdict": "Risk Verdict",
+    "maxSize": "Max size:",
+    "investmentMemo": "Investment Memo",
+    "approve": "Approve",
+    "reject": "Reject",
+    "approveBlocked": "Approve blocked — current mode is \"{{mode}}\". Run Risk Review first.",
+    "overrideMode": "Override mode — bypasses standard protocol (logged)",
+    "committeeRoster": "Committee roster",
+    "ideaApproved": "Idea approved. Order moved to Execution Console.",
+    "ideaRejected": "Idea rejected.",
+    "committeeToast": "Committee dispatched. Watch the debate stream.",
+    "committeeFailed": "Failed to run committee",
+    "actionAdvice": {
+      "label": "What to do",
+      "positionSize": "Position size: max {{pct}}% NAV",
+      "approve": {
+        "title": "Committee approved — act now",
+        "steps": [
+          "Click Approve below to confirm",
+          "Go to Execution and place the order",
+          "Set stop-loss as specified in the verdict",
+          "Add to Watchlist for ongoing monitoring"
+        ]
+      },
+      "reduce_size": {
+        "title": "Enter with reduced size",
+        "steps": [
+          "Approve the idea with reduced size",
+          "Use only the specified % NAV",
+          "Stop-loss is mandatory — do not enter without it",
+          "You may add to the position if the thesis is confirmed"
+        ]
+      },
+      "wait": {
+        "title": "Wait — conditions not ready",
+        "steps": [
+          "Do not enter now — risk is not justified",
+          "Add the ticker to Watchlist",
+          "Monitor the trigger from the thesis",
+          "Re-run the committee when conditions change"
+        ]
+      },
+      "reject": {
+        "title": "Idea rejected — do not enter",
+        "steps": [
+          "Click Reject to close the idea",
+          "Run Post-Mortem in Journal to capture the lesson",
+          "Revisit the thesis if new data emerges"
+        ]
+      },
+      "kill_switch": {
+        "title": "Kill Switch — exit immediately",
+        "steps": [
+          "Close the position at market right now",
+          "Activate Kill Switch in the Risk panel",
+          "Do not open new positions until reviewed",
+          "Log the reason in Journal"
+        ]
+      },
+      "no_verdict": {
+        "title": "Run the committee first",
+        "steps": [
+          "Click «Re-run Committee» at the top",
+          "Wait for all 13 agents to respond",
+          "After the Risk Officer verdict — make your decision"
+        ]
+      }
+    }
+  },
+  "agentChat": {
+    "title": "Agent Chat",
+    "subtitle": "Direct conversation with any specialist agent",
+    "history": "History",
+    "noHistory": "No conversations yet",
+    "allCleared": "All history cleared",
+    "clearAll": "Clear all history",
+    "msgs": "msgs",
+    "clear": "Clear",
+    "cleared": "Chat history cleared",
+    "errFailed": "Agent failed to respond",
+    "errEmpty": "Empty response from agent",
+    "placeholder": "Ask {{name}}… (Enter to send, Shift+Enter for new line)",
+    "footer": "Powered by Gemini · Each agent stays in its domain · History saved locally",
+    "agents": {
+      "cio": {
+        "label": "CIO Orchestrator",
+        "desc": "Committee chair, capital allocation, final conviction"
+      },
+      "macro": {
+        "label": "Macro Strategist",
+        "desc": "Regime, rates, inflation, central banks, FX"
+      },
+      "fundamental": {
+        "label": "Fundamental Analyst",
+        "desc": "Valuation, earnings, FCF, multiples, catalysts"
+      },
+      "bear": {
+        "label": "Bear Case",
+        "desc": "Risk identification, stress testing, short thesis"
+      },
+      "risk": {
+        "label": "Risk Manager",
+        "desc": "Position sizing, stop-loss, verdicts, kill-switch"
+      },
+      "quant": {
+        "label": "Quant Research",
+        "desc": "Backtests, factor exposure, Kelly sizing, vol"
+      },
+      "news": {
+        "label": "News & NLP",
+        "desc": "Sentiment, narratives, positioning, KAP disclosures"
+      },
+      "options": {
+        "label": "Options / Volatility",
+        "desc": "IV, skew, Greeks, trade structures, dealer gamma"
+      },
+      "flow": {
+        "label": "Flow & Liquidity",
+        "desc": "Dark pools, ETF flows, insider activity, liquidity"
+      },
+      "portfolio": {
+        "label": "Portfolio Manager",
+        "desc": "Portfolio impact, concentration, correlation, NAV"
+      },
+      "execution": {
+        "label": "Execution",
+        "desc": "Order types, timing, slippage, BIST mechanics"
+      },
+      "operations": {
+        "label": "Operations",
+        "desc": "Compliance, sanctions, SPK/SEC, PASS or BLOCK"
+      },
+      "memory": {
+        "label": "Memory & Journal",
+        "desc": "Past trades, journal lessons, agent accuracy"
+      }
+    },
+    "starters": {
+      "cio": [
+        "What's the current market conviction level?",
+        "How should I size a high-conviction idea?",
+        "Walk me through the committee process",
+        "What makes a strong investment thesis?"
+      ],
+      "macro": [
+        "What's the current macro regime?",
+        "How does the Fed rate cycle affect equities?",
+        "What's the TCMB stance on TRY?",
+        "Is this a risk-on or risk-off environment?"
+      ],
+      "fundamental": [
+        "How do I value a Turkish bank like AKBNK?",
+        "What FCF yield is attractive for an energy stock?",
+        "Walk me through a DCF for a growth stock",
+        "What KPIs matter most for BIST retail stocks?"
+      ],
+      "bear": [
+        "What are the biggest risks in Turkish equities?",
+        "How do I stress-test a bull thesis?",
+        "What accounting red flags should I look for?",
+        "What kills a high-conviction trade?"
+      ],
+      "risk": [
+        "How should I size a 3R trade?",
+        "When should I engage the kill switch?",
+        "What's the right stop-loss for a volatile stock?",
+        "How do I calculate max position size?"
+      ],
+      "quant": [
+        "What's the historical hit rate for momentum setups?",
+        "How do I calculate Kelly fraction for this trade?",
+        "What's the realized vol on BIST100?",
+        "How do I backtest a mean-reversion strategy?"
+      ],
+      "news": [
+        "How do I read sentiment for a contrarian trade?",
+        "What KAP disclosures should I monitor for AKBNK?",
+        "When does analyst consensus become a fade signal?",
+        "How do I track narrative shifts in the market?"
+      ],
+      "options": [
+        "How do I read IV rank for a trade setup?",
+        "What's the best structure for a bullish view with limited risk?",
+        "How does dealer gamma affect spot price?",
+        "What are the options alternatives for BIST stocks?"
+      ],
+      "flow": [
+        "How do I identify institutional accumulation?",
+        "What does yabancı (foreign) flow tell us about BIST?",
+        "How do I read dark pool prints?",
+        "What insider activity signals are most reliable?"
+      ],
+      "portfolio": [
+        "How much TRY exposure is too much?",
+        "How do I check if a new position adds correlation risk?",
+        "When should I rebalance the portfolio?",
+        "What's the right cash level in a volatile market?"
+      ],
+      "execution": [
+        "Should I use a limit or market order for AKBNK?",
+        "What are BIST daily price limits?",
+        "How do I scale into a position to minimize impact?",
+        "What's the best time to execute on BIST?"
+      ],
+      "operations": [
+        "Is AKBNK on any restricted list?",
+        "What SPK rules apply to BIST equity trading?",
+        "What are the KAP disclosure obligations?",
+        "Check compliance for a short position on a Turkish bank"
+      ],
+      "memory": [
+        "What have we learned from past BIST trades?",
+        "Which agents have been most accurate on energy?",
+        "What mistakes have we repeated in the journal?",
+        "Summarize lessons from our last 5 post-mortems"
+      ]
+    }
+  },
+  "agentChatSection": {
+    "label": "Talk to the committee",
+    "titleA": "Ask any agent.",
+    "titleB": "Get a direct answer.",
+    "subtitle": "Each of the 13 agents stays in its domain. Ask the Risk Manager about position sizing. Ask the Bear Case to stress-test your thesis. Ask the CIO for a final conviction call.",
+    "agents": [
+      {
+        "name": "CIO",
+        "desc": "Final conviction, capital allocation"
+      },
+      {
+        "name": "Macro",
+        "desc": "Regime, rates, central banks"
+      },
+      {
+        "name": "Fundamental",
+        "desc": "Valuation, earnings, FCF"
+      },
+      {
+        "name": "Bear",
+        "desc": "Stress test, short thesis"
+      },
+      {
+        "name": "Risk",
+        "desc": "Position sizing, stop-loss, veto"
+      },
+      {
+        "name": "Quant",
+        "desc": "Backtests, Kelly sizing, vol"
+      },
+      {
+        "name": "News",
+        "desc": "Sentiment, KAP disclosures"
+      },
+      {
+        "name": "Options",
+        "desc": "IV, skew, trade structures"
+      },
+      {
+        "name": "Flow",
+        "desc": "Dark pools, ETF flows, insider"
+      },
+      {
+        "name": "Portfolio",
+        "desc": "Concentration, correlation, NAV"
+      },
+      {
+        "name": "Execution",
+        "desc": "Order types, timing, slippage"
+      },
+      {
+        "name": "Operations",
+        "desc": "Compliance, SPK/SEC, PASS/BLOCK"
+      },
+      {
+        "name": "Memory",
+        "desc": "Past trades, journal lessons"
+      }
+    ],
+    "cta": "Open Agent Chat"
+  },
+  "scenarios": {
+    "label": "See it in action",
+    "titleA": "Real scenarios.",
+    "titleB": "Real workflow.",
+    "subtitle": "Here is exactly what happens from the moment you spot an idea to the moment you place the order.",
+    "items": [
+      {
+        "step": "01",
+        "title": "You spot AKBNK breaking out",
+        "body": "Add it to Watchlist with a trigger note: 'Breakout above 52W high on volume.' The system tracks it alongside your other candidates."
+      },
+      {
+        "step": "02",
+        "title": "Promote to Debate Room",
+        "body": "One click sends the idea to the committee. 13 agents receive the thesis and begin arguing — Macro checks the regime, Fundamental checks the valuation, Bear looks for the hole."
+      },
+      {
+        "step": "03",
+        "title": "Committee delivers a verdict",
+        "body": "7 agents FOR, 3 CAUTION, 2 AGAINST, 1 RISK VETO. The Risk Officer caps position at 6% NAV and sets a mandatory stop at -1.5R. The debate is on the record."
+      },
+      {
+        "step": "04",
+        "title": "You review and approve",
+        "body": "You read the full transcript, check the Investment Memo, and click Approve. The order moves to Execution Console — nothing executes without your signature."
+      },
+      {
+        "step": "05",
+        "title": "Trade closes. Post-mortem runs.",
+        "body": "When you close the position, the system scores every agent's stance against the realized P&L. The Memory agent stores the lesson. Next time AKBNK comes up, the committee already knows."
+      }
+    ]
+  },
+  "forWhom": {
+    "label": "Who this is for",
+    "titleA": "Built for one",
+    "titleB": "operator with conviction.",
+    "subtitle": "Not a robo-advisor. Not a screener. A full investment committee that works for you — and only executes when you say so.",
+    "profiles": [
+      {
+        "title": "Discretionary Trader",
+        "body": "You have strong views and a track record. You want a system that challenges your thesis before you size up — not after."
+      },
+      {
+        "title": "Family Office PM",
+        "body": "You manage concentrated positions with real accountability. You need every trade documented, debated and auditable."
+      },
+      {
+        "title": "Prop Desk Operator",
+        "body": "You run a book with strict risk limits. The kill switch and position caps are not optional — they are the system."
+      },
+      {
+        "title": "Independent Analyst",
+        "body": "You do the research but lack the infrastructure. Atlantix Finance gives you a full committee, RAG memory and execution workflow in one terminal."
+      }
+    ]
+  },
+  "nextSteps": {
+    "label": "What to do next",
+    "titleA": "You have the knowledge.",
+    "titleB": "Now use it.",
+    "subtitle": "Here is the exact path from first login to your first committee-approved trade.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Create your operator account",
+        "body": "Sign up and access the Command Center. Your portfolio, watchlist and agent memory are private to your account."
+      },
+      {
+        "n": "02",
+        "title": "Add your first idea to Watchlist",
+        "body": "Pick a ticker you already have a view on. Add a trigger note. This is your starting point — not a blank screen."
+      },
+      {
+        "n": "03",
+        "title": "Run the committee",
+        "body": "Promote the idea to the Debate Room and click Run Committee. Watch 13 agents argue your thesis in real time."
+      },
+      {
+        "n": "04",
+        "title": "Read the verdict. Approve or reject.",
+        "body": "The Risk Officer will give you a position cap and a stop-loss. If you agree — approve. If not — reject and log the reason."
+      },
+      {
+        "n": "05",
+        "title": "Close the trade. Run the post-mortem.",
+        "body": "After the trade closes, run the post-mortem in Journal. The system scores the agents and stores the lesson in memory."
+      }
+    ]
+  },
+  "auth": {
+    "back": "Back",
+    "tagline": "Autonomous Digital Hedge Fund (Hedge Fon) Terminal",
+    "emailLabel": "Operator email",
+    "passwordLabel": "Access key",
+    "authenticating": "Authenticating…",
+    "enterTerminal": "Enter Terminal",
+    "createOperator": "Create Operator",
+    "newOperator": "New operator? Create access",
+    "existingOperator": "Existing operator? Sign in",
+    "accountCreated": "Account created. Check your email to confirm, then sign in.",
+    "welcome": "Welcome to Atlantix Lab",
+    "failed": "Authentication failed"
+  },
+  "shell": {
+    "initializing": "Initializing Atlantix Finance…",
+    "openMenu": "Open menu",
+    "navigation": "Navigation",
+    "backToTop": "Back to top"
+  },
+  "shariahGuard": {
+    "title": "Shariah Guard Station",
+    "subtitle": "Islamic finance compliance · Zoya-powered screening",
+    "strictMode": "Strict Shariah Mode",
+    "strictModeDesc": "Disables short selling and activates Shariah Scholar role in committee",
+    "syncZoya": "Sync with Zoya",
+    "syncing": "Syncing…",
+    "syncSuccess": "Synced {{n}} assets with Zoya",
+    "syncFailed": "Zoya sync failed",
+    "complianceMonitor": "Compliance Monitor",
+    "complianceDesc": "Shariah screening for watchlist assets",
+    "ticker": "Ticker",
+    "name": "Name",
+    "status": "Status",
+    "debtMc": "Debt/MC",
+    "cashMc": "Cash/MC",
+    "haramRev": "Haram Rev",
+    "compliant": "Compliant",
+    "nonCompliant": "Non-Compliant",
+    "questionable": "Questionable",
+    "notScreened": "Not Screened",
+    "purificationEngine": "Purification Engine",
+    "purificationDesc": "Zakat & purification amounts from trade journal",
+    "currentMonth": "Current Month",
+    "totalPurification": "Total Purification Due",
+    "noPurification": "No purification amounts recorded this month",
+    "noWatchlist": "No assets in watchlist",
+    "mockBadge": "Mock Data",
+    "mockNote": "ZOYA_API_KEY not set — showing mock compliance data"
+  },
+  "terminalMode": {
+    "mode": "Mode",
+    "activeMode": "Active mode",
+    "research": {
+      "label": "Research",
+      "hint": "Idea discovery, no execution"
+    },
+    "watch": {
+      "label": "Watch",
+      "hint": "Monitor assets & events only"
+    },
+    "committee": {
+      "label": "Committee",
+      "hint": "Agents debating an active idea"
+    },
+    "risk_review": {
+      "label": "Risk Review",
+      "hint": "Risk gate active, awaiting verdict"
+    },
+    "execution": {
+      "label": "Execution",
+      "hint": "Approved order prep & submission"
+    },
+    "live": {
+      "label": "Live",
+      "hint": "Open positions being managed"
+    },
+    "post_mortem": {
+      "label": "Post-Mortem",
+      "hint": "Reviewing closed trades"
+    },
+    "emergency": {
+      "label": "Emergency",
+      "hint": "Trading halted, diagnostics only"
+    }
+  },
+  "dataSource": {
+    "label": "Data source",
+    "portfolio": "Positions and P&L are synced from your Alpaca broker via the broker-sync-portfolio cron job.",
+    "macro": "Macro series come from the FRED API (rates, CPI, DXY, unemployment); refreshed daily by macro-snapshot.",
+    "journal": "Trade journal is built automatically from closed positions; post-mortems are written by generate-postmortem.",
+    "news": "News is fetched through NewsAPI + KAP integrations by the ingest-news job.",
+    "ideas": "Ideas are added by the operator or surfaced by the score-idea / fundamental-snapshot scanners.",
+    "debate": "Debates are produced by real Gemini agents through the run-committee function; every message is persisted to agent_debates."
+  }
+}

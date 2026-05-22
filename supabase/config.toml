@@ -1,0 +1,64 @@
+project_id = "hcmcsjsbfhhyeaozooas"
+
+[functions.run-committee]
+verify_jwt = true
+
+[functions.zoya-sync]
+verify_jwt = true
+
+[functions.system-health-check]
+verify_jwt = false
+
+[functions.macro-snapshot]
+verify_jwt = true
+
+[functions.ingest-news]
+verify_jwt = true
+
+[functions.market-data-sync]
+verify_jwt = true
+
+[functions.broker-place-order]
+verify_jwt = true
+
+[functions.broker-sync-portfolio]
+verify_jwt = true
+
+[functions.embed-document]
+verify_jwt = true
+
+[functions.research-query]
+verify_jwt = true
+
+[functions.generate-postmortem]
+verify_jwt = true
+
+[functions.evaluate-risk]
+verify_jwt = true
+
+[functions.notify]
+verify_jwt = true
+
+[functions.tr-macro-snapshot]
+verify_jwt = true
+
+[functions.try-crisis-monitor]
+verify_jwt = true
+
+[functions.kap-news]
+verify_jwt = true
+
+[functions.feature-snapshot]
+verify_jwt = true
+
+[functions.tcmb-evds]
+verify_jwt = true
+
+[functions.stop-loss-watcher]
+verify_jwt = true
+
+[functions.fundamental-snapshot]
+verify_jwt = true
+
+[functions.score-idea]
+verify_jwt = true
